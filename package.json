@@ -1,7 +1,7 @@
 {
-  "name": "andigital-javascript-test",
+  "name": "fizzbuzz-tdd-exercise",
   "version": "1.0.0",
-  "description": "JavaScript exercises for product developer candidates",
+  "description": "An exercise to help developers practice working with a TDD approach",
   "main": "test.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha"
